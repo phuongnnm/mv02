@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "name": "Iron man",
+      "description": "bcsnbdcdms",
+      "year": 2013,
+      "isavailable": false,
+      "imgname": "ironman"
+    },
+    {
+      "id": 1,
+      "name": "Captain Marvel",
+      "description": "20212",
+      "year": 2014,
+      "isavailable": false,
+      "imgname": "captainmarvel"
+    },
+    {
+      "id": 2,
+      "name": "hulk",
+      "description": "hulkdffds",
+      "year": 2014,
+      "isavailable": false,
+      "imgname": "captainmarvel"
+    },
+    {
+      "name": "Dr. Strange",
+      "description": "bcsnbdcdms",
+      "year": 2015,
+      "isavailable": false,
+      "imgname": "drstrange",
+      "id": 3
+    }
+  ]
+}
